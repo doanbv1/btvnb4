@@ -23,7 +23,7 @@
         </activity>
         <activity
             android:name=".bai2"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
